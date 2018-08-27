@@ -20,5 +20,5 @@ Credits
 ---------
 
 Many thanks to `takontom <https://github.com/takeontom>` for there
-`luxafor-python <https://github.com/takeontom/pyluxafor>` project,
+`pyluxafor <https://github.com/takeontom/pyluxafor>` project,
 which this project heavily relies upon.
