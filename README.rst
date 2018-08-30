@@ -1,4 +1,4 @@
-Python API for the Luxafor Flag on macOS
+Python API for the `Luxafor Flag <https://luxafor.com/luxafor-flag/>` on macOS
 
 
 Installation
@@ -19,6 +19,7 @@ See the file `try.py`
 Credits
 ---------
 
-Many thanks to `takontom <https://github.com/takeontom>` for there
+Many thanks to `takontom <https://github.com/takeontom>` for their
 `pyluxafor <https://github.com/takeontom/pyluxafor>` project,
 which this project heavily relies upon.
+>
